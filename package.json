@@ -32,7 +32,7 @@
         "base58-native": "*",
         "bignum": "*",
         "bitcoinjs-lib-zcash": "git+https://github.com/Asherda/bitcoinjs-lib-zcash#zcash",
-        "equihashverify": "git+https://github.com/s-nomp/equihashverify.gi",
+        "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "merkle-bitcoin": "git+https://github.com/boolpath/merkle-bitcoin.git",
         "promise": "*"
     },
